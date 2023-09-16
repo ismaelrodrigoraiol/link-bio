@@ -1,0 +1,31 @@
+[   
+    {
+        "titulo": "WhatsApp",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/733/733585.png ",
+        "href"  : "https://wa.me/559388144081/"
+    },
+
+    {
+        "titulo": "Instagram",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "href"  : "https://www.instagram.com/ismaelrodrigoraiol/"
+    },
+
+    {
+        "titulo": "YouTube",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/1076/1076995.png",
+        "href"  : "https://www.youtube.com/ismaelrodrigoraiol"
+    },
+    {
+        "titulo": "Twitter X",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/733/733635.png",
+        "href"  : "https://www.twitter.com/ismrodrigoraiol"
+    },
+
+    {
+        "titulo": "GitHub",
+        "img"   : "https://github.githubassets.com/images/modules/logos_page/Octocat.png",
+        "href"  : "https://github.com/ismaelrodrigoraiol"
+    }
+
+]
